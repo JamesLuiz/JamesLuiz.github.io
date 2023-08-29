@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d8514aa.css",
+    "main.js": "/static/js/main.ba0ad809.js",
+    "static/media/cv.pdf": "/static/media/cv.09fcce77538c30ef5d44.pdf",
+    "static/media/smartcontracts.png": "/static/media/smartcontracts.4dad5e67f1b2e449f9cf.png",
+    "static/media/Token.png": "/static/media/Token.26ba69cfeeccec540558.png",
+    "static/media/crypto.png": "/static/media/crypto.107018a179f6008c60ed.png",
+    "static/media/Nft.png": "/static/media/Nft.892c445ee60154d6cf72.png",
+    "static/media/sweeper1.png": "/static/media/sweeper1.401bf5a44bc8ed88fb1c.png",
+    "static/media/metamask.png": "/static/media/metamask.9d0b7ff4acf2ebd186b8.png",
+    "static/media/profile.jpg": "/static/media/profile.222d140b6905c34416f8.jpg",
+    "static/media/slide.jpg": "/static/media/slide.6d96875d3370a5cbfe79.jpg",
+    "static/media/choice1.jpg": "/static/media/choice1.bf07bc73fbe2bf0555fc.jpg",
+    "index.html": "/index.html",
+    "main.5d8514aa.css.map": "/static/css/main.5d8514aa.css.map",
+    "main.ba0ad809.js.map": "/static/js/main.ba0ad809.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d8514aa.css",
+    "static/js/main.ba0ad809.js"
+  ]
+}
